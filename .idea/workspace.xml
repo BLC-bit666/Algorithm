@@ -4,57 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1afcfcc-63c2-41da-95c1-f91679ee3d5f" name="Changes" comment="算法笔记1.0">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo01_BitOperation/BitOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo02_Random/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo03_BooleanOperation/BooleanOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo03_Heap/Heap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo04_Sort/demo04_Radix_Counting_bucket_sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/BBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/BFSTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/CBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/FBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/LowestCommonAncestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/NoRecTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/RecTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/SerializeAndDeserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/Successor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo06_Graph/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo06_Graph/Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo06_Graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo06_Graph/GraphEdge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo06_Graph/GraphNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo06_Graph/Kruskal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo06_Graph/Prim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo06_Graph/TopologySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo01_BitOperation/BitOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo02_Random/Random.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo03_BooleanOperation/BooleanOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo03_Heap/Heap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo04_Sort/demo04_Radix_Counting_bucket_sort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/BBT$BBTReturnType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/BBT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/BFSTraverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/BST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/CBT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/FBT$CBTReturnType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/FBT.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/LowestCommonAncestor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/NoRecTraverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/RecTraverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/test.class" afterDir="false" />
+    <list default="true" id="c1afcfcc-63c2-41da-95c1-f91679ee3d5f" name="Changes" comment="算法笔记1.0,新增了图的算法">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="1db7e34d-3199-49ae-a618-a781385ee4d6" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -91,24 +45,24 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java/algorithm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15625&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Java/algorithm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15625",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
@@ -212,8 +166,26 @@
       <workItem from="1700210522256" duration="1233000" />
       <workItem from="1700481678952" duration="9510000" />
       <workItem from="1700662025213" duration="1765000" />
-      <workItem from="1700664838595" duration="444000" />
+      <workItem from="1700664838595" duration="525000" />
+      <workItem from="1700706905921" duration="118000" />
     </task>
+    <task id="LOCAL-00001" summary="算法笔记1.0,新增了图的算法">
+      <option name="closed" value="true" />
+      <created>1700665318388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700665318388</updated>
+    </task>
+    <task id="LOCAL-00002" summary="算法笔记1.0,新增了图的算法">
+      <option name="closed" value="true" />
+      <created>1700665347539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700665347539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,7 +204,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="算法笔记1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="算法笔记1.0" />
+    <MESSAGE value="算法笔记1.0,新增了图的算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="算法笔记1.0,新增了图的算法" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
