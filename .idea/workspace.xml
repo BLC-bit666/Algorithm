@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1afcfcc-63c2-41da-95c1-f91679ee3d5f" name="Changes" comment="算法笔记1.0,新增了图的算法">
+      <change afterPath="$PROJECT_DIR$/java/demo01_BitOperation/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/TrieTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/demo06_Graph/UnionFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/demo07_Greedy/CutGold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/demo07_Greedy/ScheduleMeetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/demo08_string/Kmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/demo08_string/Manacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/demo08_string/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/demo05_Tree/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/demo06_Graph/DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/demo06_Graph/DFS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/test1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,32 +59,59 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Java/algorithm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15625",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/algorithm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15625&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test1">
-    <configuration name="BFSTraverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo05_Tree.BFSTraverse" />
+  <component name="RunManager" selected="Application.test">
+    <configuration name="Kmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo08_string.Kmp" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo08_string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo01_BitOperation.NQueens" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo01_BitOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrieTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo05_Tree.TrieTree" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -82,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoRecTraverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo05_Tree.NoRecTraverse" />
+    <configuration name="demo07_Greedy.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo07_Greedy.test" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo05_Tree.*" />
+          <option name="PATTERN" value="demo07_Greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +137,11 @@
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo05_Tree.test" />
+      <option name="MAIN_CLASS_NAME" value="demo08_string.test" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo05_Tree.*" />
+          <option name="PATTERN" value="demo08_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,27 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test1" />
-      <module name="algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="text" />
-      <module name="algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test1" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.text" />
-        <item itemvalue="Application.BFSTraverse" />
-        <item itemvalue="Application.NoRecTraverse" />
+        <item itemvalue="Application.TrieTree" />
+        <item itemvalue="Application.Kmp" />
+        <item itemvalue="Application.demo07_Greedy.test" />
+        <item itemvalue="Application.NQueens" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +195,27 @@
       <workItem from="1700662025213" duration="1765000" />
       <workItem from="1700664838595" duration="525000" />
       <workItem from="1700706905921" duration="118000" />
+      <workItem from="1700707313329" duration="4138000" />
+      <workItem from="1700738569405" duration="4240000" />
+      <workItem from="1700822217702" duration="4087000" />
+      <workItem from="1700828108421" duration="1412000" />
+      <workItem from="1700964189343" duration="9371000" />
+      <workItem from="1700982450525" duration="4966000" />
+      <workItem from="1701004709004" duration="1235000" />
+      <workItem from="1701044714984" duration="876000" />
+      <workItem from="1701073566871" duration="3649000" />
+      <workItem from="1701174235503" duration="77000" />
+      <workItem from="1701177292764" duration="938000" />
+      <workItem from="1701354264343" duration="1516000" />
+      <workItem from="1701436280514" duration="1782000" />
+      <workItem from="1701478733852" duration="3730000" />
+      <workItem from="1701571989432" duration="1913000" />
+      <workItem from="1701908231013" duration="12000" />
+      <workItem from="1701941043545" duration="3412000" />
+      <workItem from="1702293918446" duration="1000" />
+      <workItem from="1702293933250" duration="3000" />
+      <workItem from="1702535756065" duration="3453000" />
+      <workItem from="1702893972952" duration="4604000" />
     </task>
     <task id="LOCAL-00001" summary="算法笔记1.0,新增了图的算法">
       <option name="closed" value="true" />
@@ -214,6 +262,10 @@
           <properties class="java.util.EmptyStackException" package="java.util" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -222,5 +274,9 @@
         <watch expression="listIn" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
