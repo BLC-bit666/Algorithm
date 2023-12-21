@@ -5,21 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1afcfcc-63c2-41da-95c1-f91679ee3d5f" name="Changes" comment="算法笔记1.0,新增了图的算法">
-      <change afterPath="$PROJECT_DIR$/java/demo01_BitOperation/NQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/TrieTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo06_Graph/UnionFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo07_Greedy/CutGold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo07_Greedy/ScheduleMeetings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo08_string/Kmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo08_string/Manacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/demo08_string/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/demo05_Tree/Morris.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/demo08_string/MonotonicStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/demo08_string/SlideWindow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/demo05_Tree/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/demo05_Tree/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/demo06_Graph/DFS.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/demo06_Graph/DFS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/demo08_string/test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +28,9 @@
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="1db7e34d-3199-49ae-a618-a781385ee4d6" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -83,7 +76,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.test (1)">
     <configuration name="Kmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo08_string.Kmp" />
       <module name="algorithm" />
@@ -97,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo01_BitOperation.NQueens" />
+    <configuration name="SlideWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo08_string.SlideWindow" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="demo01_BitOperation.*" />
+          <option name="PATTERN" value="demo08_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,15 +116,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo07_Greedy.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo07_Greedy.test" />
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="demo07_Greedy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.SlideWindow" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.TrieTree" />
         <item itemvalue="Application.Kmp" />
-        <item itemvalue="Application.demo07_Greedy.test" />
-        <item itemvalue="Application.NQueens" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +202,13 @@
       <workItem from="1702293918446" duration="1000" />
       <workItem from="1702293933250" duration="3000" />
       <workItem from="1702535756065" duration="3453000" />
-      <workItem from="1702893972952" duration="4604000" />
+      <workItem from="1702893972952" duration="5604000" />
+      <workItem from="1702945074637" duration="3931000" />
+      <workItem from="1702969493164" duration="4158000" />
+      <workItem from="1703031732183" duration="11000" />
+      <workItem from="1703036036190" duration="2801000" />
+      <workItem from="1703123869597" duration="3747000" />
+      <workItem from="1703141990565" duration="4777000" />
     </task>
     <task id="LOCAL-00001" summary="算法笔记1.0,新增了图的算法">
       <option name="closed" value="true" />
@@ -244,7 +237,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
